@@ -1,0 +1,6 @@
+
+
+
+
+(myenv) quality@QKNBK4840:~/yaml_to_csv_dir$ uvicorn main:app --reload
+(myenv) quality@QKNBK4840:~/yaml_to_csv_dir$ uvicorn app.main:app --reload
